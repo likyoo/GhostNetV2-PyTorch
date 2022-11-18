@@ -5,14 +5,14 @@ https://openreview.net/forum?id=vhKaBdOOobB
 Modified from MindSpore implementation:
 https://github.com/mindspore-ai/models/tree/master/research/cv/ghostnetv2
 """
+import math
+from functools import partial
+
+import numpy as np
+
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
-import math
-
-from functools import partial
-import math
-import numpy as np
 
 
 __all__ = ['ghostnetv2']
