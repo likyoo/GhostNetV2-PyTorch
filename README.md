@@ -1,5 +1,5 @@
 # GhostNetV2-PyTorch
-The PyTorch implementation of [GhostNetV2](https://openreview.net/forum?id=vhKaBdOOobB). 
+The PyTorch implementation of [GhostNetV2](https://arxiv.org/abs/2211.12905). 
 
 The official MindSpore implementation of GhostNetV2 is [here](https://github.com/mindspore-ai/models/tree/master/research/cv/ghostnetv2).
 
